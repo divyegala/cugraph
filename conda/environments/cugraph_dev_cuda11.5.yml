@@ -55,3 +55,4 @@ dependencies:
 - gmock=1.10.0
 - py
 - versioneer
+- gcc_linux-64=9.*
